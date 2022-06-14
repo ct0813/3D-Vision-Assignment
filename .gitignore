@@ -4,3 +4,9 @@ outputs
 *.pth
 *.pt
 visual.ipynb
+# python virtual environment
+venv/
+# downloaded github repo
+*.zip
+cub*/
+pytorch*/
